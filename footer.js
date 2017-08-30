@@ -6,9 +6,9 @@ document.write('\
     </div>\
     <ul class="col-sm-8 text-right" id="contact">\
       <li><a href="index.html">Splash Page</a></li>\
-      <li><a href="mailto:jgnraham@u.northwestern.edu">Email</a></li>\
-      <li><a href="http://www.linkedin.com/in/j-graham">LinkedIn</a></li>\
-      <li><a href="http://github.com/jngraham">Github</a></li>\
+      <li><a href="mailto:jgnraham@u.northwestern.edu" target="_blank">Email</a></li>\
+      <li><a href="http://www.linkedin.com/in/j-graham" target="_blank">LinkedIn</a></li>\
+      <li><a href="http://github.com/jngraham" target="_blank">Github</a></li>\
     </ul>\
   </div>\
 </footer>\
