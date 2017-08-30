@@ -1,9 +1,15 @@
+* {
+  border: 1px solid; }
+
 img {
   max-width: 320px;
   float: right;
   display: inline; }
 
 p {
-  padding-right: 12px; }
+  margin-right: 332px; }
+
+ul {
+  margin-right: 332px; }
 
 /*# sourceMappingURL=home.css.map */
