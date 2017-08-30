@@ -1,0 +1,67 @@
+* {
+  font-family: 'Anaheim' Arial;
+  border: none; }
+
+col-sm-8 {
+  padding: 0; }
+
+a:hover {
+  text-decoration: none; }
+
+ul {
+  list-style: none; }
+
+body {
+  padding: 36px;
+  border: none;
+  /*z-index: 1000;*/ }
+
+.jumbotron {
+  height: 100%;
+  width: 100%; }
+
+header .navbar {
+  background-color: White;
+  border: none; }
+header .row {
+  display: flex;
+  align-items: center;
+  padding: 12px 0;
+  border-bottom: 1px solid #D3D3D3; }
+header #home {
+  color: #181818; }
+header #home:hover {
+  color: #4F4F4F; }
+header h1 {
+  font-size: 24px;
+  margin: auto 0; }
+header ul {
+  margin: auto 0;
+  display: flex;
+  justify-content: flex-end; }
+header li {
+  padding: 0;
+  padding-left: 40px;
+  font-size: 18px;
+  margin: 0; }
+
+.introduction {
+  color: #181818;
+  padding: 0; }
+
+.subheading h3 {
+  margin: 2px 0 8px 0; }
+
+footer {
+  margin-top: 12px;
+  border-top: 1px solid #D3D3D3; }
+  footer .row {
+    padding-top: 12px; }
+  footer #contact {
+    margin: auto 0;
+    display: flex;
+    justify-content: flex-end; }
+    footer #contact li {
+      padding-left: 20px; }
+
+/*# sourceMappingURL=main.css.map */

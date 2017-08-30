@@ -1,0 +1,19 @@
+document.write('\
+\
+<header class="container">\
+  <nav class="navbar navbar-default navbar-fixed-top">\
+    <div class="container nav-content">\
+      <div class="row">\
+        <h1 class="col-sm-4"><a href="../../home.html" id="home">james graham<a></h1>\
+\
+          <ul class="col-sm-8 text-right">\
+            <li><a href="../../projects.html">Projects</a></li>\
+            <li><a href="../../gallery.html">Gallery</a></li>\
+            <li><a href="../../reading-list.html">Reading List</a></li>\
+          </ul>\
+        </div>\
+      </div>\
+    </nav>\
+  </header>\
+\
+');

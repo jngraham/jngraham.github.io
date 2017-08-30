@@ -1,0 +1,31 @@
+* {
+  // border: 1px solid;
+}
+
+.project {
+
+  #cover-img {
+    // max-width: 480px;
+    // max-height: 320px;
+  }
+
+  .text {
+    padding-top: 12px;
+  }
+
+  .gallery {
+
+    img {
+      height: 320px;
+      // margin-bottom: 12px;
+      // object-fit: cover;
+    }
+
+    img-row {
+      // padding-bottom: 12px;
+      // margin-bottom: 12px;
+    }
+
+  }
+
+}

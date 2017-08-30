@@ -1,0 +1,116 @@
+// Stylesheet for the header "navbar" and the footer
+
+$text-color: #181818;
+$border-style: 1px solid #D3D3D3;
+
+* {
+  font-family: 'Anaheim' Arial;
+  border: none;
+  // border: solid 1px;
+}
+
+col-sm-8 {
+  padding: 0;
+}
+
+a {
+
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+body {
+  padding: 36px;
+  border:none;
+  /*z-index: 1000;*/
+}
+
+.jumbotron {
+  height: 100%;
+  width: 100%;
+}
+
+header {
+
+  .navbar {
+    background-color: White;
+    border: none;
+  }
+
+  .nav-content {
+
+  }
+
+  .row {
+    display: flex;
+    align-items: center;
+    padding: 12px 0;
+    border-bottom: $border-style;
+  }
+
+  #home {
+    color: $text-color;
+  }
+
+  #home:hover {
+    color: #4F4F4F;
+  }
+
+  h1 {
+    font-size: 24px;
+    margin: auto 0;
+  }
+
+  ul {
+    margin: auto 0;
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  li {
+    padding: 0;
+    padding-left: 40px;
+    font-size: 18px;
+    margin: 0;
+  }
+
+}
+
+.introduction {
+  color: $text-color;
+  padding: 0;
+}
+
+.subheading {
+  h3 {
+    margin: 2px 0 8px 0;
+  }
+}
+
+footer {
+
+  margin-top: 12px;
+
+  border-top: $border-style;
+
+  .row {
+    padding-top: 12px;
+  }
+
+  #contact {
+    margin: auto 0;
+    display: flex;
+    justify-content: flex-end;
+
+    li {
+      padding-left: 20px;
+    }
+  }
+
+}

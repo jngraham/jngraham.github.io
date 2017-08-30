@@ -1,0 +1,11 @@
+.subject .item {
+  display: block; }
+.subject a {
+  border: none;
+  padding: 0; }
+.subject img {
+  height: 200px;
+  width: 200px;
+  object-fit: cover; }
+
+/*# sourceMappingURL=projects.css.map */
