@@ -1,5 +1,6 @@
 * {
   // border: 1px solid;
+  // font-family: Arial;
 }
 
 img {
@@ -8,10 +9,11 @@ img {
   display: inline;
 }
 
-p {
+.content p {
   margin-right: 320+12px;
 }
 
 ul {
   margin-right: 320+12px;
+  margin-left: 0;
 }

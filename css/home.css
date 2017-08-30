@@ -3,10 +3,11 @@ img {
   float: right;
   display: inline; }
 
-p {
+.content p {
   margin-right: 332px; }
 
 ul {
-  margin-right: 332px; }
+  margin-right: 332px;
+  margin-left: 0; }
 
 /*# sourceMappingURL=home.css.map */
