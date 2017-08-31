@@ -10,6 +10,7 @@ document.write('\
       <li><a href="http://www.linkedin.com/in/j-graham">LinkedIn</a></li>\
       <li><a href="http://github.com/jngraham">Github</a></li>\
     </ul>\
+    \
   </div>\
 </footer>\
 \
