@@ -4,8 +4,7 @@ document.write('\
   <nav class="navbar navbar-default navbar-fixed-top">\
     <div class="container nav-content">\
       <div class="row">\
-        <h1 class="col-sm-4"><a href="../../home.html" id="home">james n graham<a></h1>\
-\
+        <h1 class="col-sm-4"><a href="../../index.html" id="home">james n graham<a></h1>\
           <ul class="col-sm-8 text-right">\
             <li><a href="../../projects.html">Projects</a></li>\
             <li><a href="../../gallery.html">Gallery</a></li>\
