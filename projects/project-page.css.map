@@ -1,6 +1,6 @@
 {
 "version": 3,
-"mappings": "AAWE,cAAM;EACJ,WAAW,EAAE,IAAI;AAKjB,qBAAI;EACF,MAAM,EAAE,KAAK",
+"mappings": "AAWE,cAAM;EACJ,WAAW,EAAE,IAAI;AAKjB,qBAAI;EACF,UAAU,EAAE,KAAK;EAEjB,SAAS,EAAE,IAAI",
 "sources": ["project-page.scss"],
 "names": [],
 "file": "project-page.css"
