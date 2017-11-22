@@ -4,11 +4,13 @@ document.write('\
     <div class="col-sm-4">\
       <p>&copy; 2017 James Graham</p>\
     </div>\
-    <ul class="col-sm-8 text-right" id="contact">\
-      <li><a href="mailto:jgnraham@u.northwestern.edu">Email</a></li>\
-      <li><a href="http://www.linkedin.com/in/j-graham">LinkedIn</a></li>\
-      <li><a href="http://github.com/jngraham">Github</a></li>\
+    <div class="col-sm-8 text-right">\
+    <ul id="contact">\
+      <li><a href="mailto:jgnraham@u.northwestern.edu" target="_blank">Email</a></li>\
+      <li><a href="http://www.linkedin.com/in/j-graham" target="_blank">LinkedIn</a></li>\
+      <li><a href="http://github.com/jngraham" target="_blank">Github</a></li>\
     </ul>\
+    </div>\
   </div>\
 </footer>\
 \

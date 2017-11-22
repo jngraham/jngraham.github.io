@@ -74,6 +74,7 @@ header {
   }
 
   li {
+    display:inline;
     padding: 0;
     padding-left: 40px;
     font-size: 18px;
@@ -109,6 +110,7 @@ footer {
     justify-content: flex-end;
 
     li {
+      display:inline;
       padding-left: 20px;
     }
   }
