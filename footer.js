@@ -8,6 +8,7 @@ document.write('\
     <ul id="contact">\
       <li style="display:inline"><a href="mailto:jgnraham@u.northwestern.edu" target="_blank">Email</a></li>\
       <li style="display:inline"><a href="http://github.com/jngraham" target="_blank">Github</a></li>\
+      <li style="display:inline"><a href="https://www.linkedin.com/in/j-n-graham/" target="_blank">LinkedIn</a></li>\
     </ul>\
     </div>\
   </div>\
