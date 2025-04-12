@@ -2,7 +2,7 @@ document.write('\
 <footer class="container">\
   <div class="row">\
     <div class="col-sm-4">\
-      <p>&copy; 2017-2020 James Graham</p>\
+      <p>&copy; 2017-2025 James Graham</p>\
     </div>\
     <div class="col-sm-8 text-right">\
     <ul id="contact">\
